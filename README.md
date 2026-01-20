@@ -47,3 +47,5 @@ O should report a Full audit log
 Every mode change, access change, ban, unban in #Monitor
 
 Implement pseudo client creation from O (just for placeholding some nicks)
+
+Implement #Jail for T and P.
