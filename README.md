@@ -1,2 +1,49 @@
 # mjolnir
 Mjolnir IRC Services for EmechNet 
+
+
+add NOOP chanflag on Q
+multiple languages for Q and S
+INFO #Channel Command for Q
+PART #Channel command for Q and S
+Make it impossible for users to deop/kick/ban Q, D, S (any irc service)
+Limit users to 5 channels per Normal User (admins can register unlimited channels with Q)
+Limit users to 5 accounts per E-mail. (add a command that let's admin add accounts)
+Limit S to channels with over 10 users in.
+Limit D to channels with over 20 users in.
+Only the owner/master can add/remove S to their channel.
+Restrict which offense kills a user with S.
+Add a flood protection for Q/S, if they're being flooded, they notice the user that they're flooding attempt has been recoreded and that they're being put on ignore for 10 minutes. (Multiple offenses will result in longer ignore times).
+Add Keywords, description and email to channels registered with Q
+Add suspend user access on a channel with Q.
+
+Implement Dynamicvoice (e.g. auto-voice users after X minutes of activity)
+
+Implement Dynamicop (e.g. auto-devoice/deop users after X minutes of inactivity)
+
+Add svshost,svsident,svsname,svsnick to O
+
+Implement T, P, D, G.
+
+Implement M (MemoServ Module)
+
+Implement webUi for Mjolnir Services. (WebUI module)
+
+Implement B (clone army module, try to use the one we already have)
+
+Implement e-mail confirmation registration for Q. (E-Mail Module)
+
+Change S to F.
+Change G to H
+
+Add version scan to T.
+
+For S/F{
+Warning → mute → kick → tempban → permaban
+Automatic decay of punishment history over time
+}
+
+O should report a Full audit log
+Every mode change, access change, ban, unban in #Monitor
+
+Implement pseudo client creation from O (just for placeholding some nicks)
