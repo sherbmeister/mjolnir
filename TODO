@@ -76,3 +76,11 @@ Re-write status page for emechnet.org
 Re-write stats page for emechnet.org
 
 Implement BOPM/HOPM functionality into P (ProxyServ)
+
+Inprove the way Q / S / D offers HELP to users. 
+
+Make H explain each Q/S/D command.
+
+Add Help for Mjolnir services on EmechNet.org.
+
+Implement "Legacy" for the emechnet.org website.
