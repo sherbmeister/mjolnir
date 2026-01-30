@@ -83,4 +83,6 @@ Make H explain each Q/S/D command.
 
 Add Help for Mjolnir services on EmechNet.org.
 
-Implement "Legacy" for the emechnet.org website.
+Implement "Legacy" for the emechnet.org website.\
+
+On Q Suspend #channel (only by admins), Q will change the topic of the channel to "This Channel has been suspended by the EmechNet Administration. Reason: Reason here. (For more information about this suspension please join #Help or E-Mail suspensions@emechnet.org), also change its Welcome message to "Channel Suspended"
