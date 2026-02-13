@@ -67,22 +67,22 @@ For S/F{ Warning → mute → kick → tempban → permaban Automatic decay of p
 
 ✔ A page where you can list all registered channels and all registered users.
 
-Add on the website in the stats panel, how many channels and users are registered with Q.
+✔ Add on the website in the stats panel, how many channels and users are registered with Q.
 
-Re-write footer stats for emechnet.org through D/S
+✔  Re-write footer stats for emechnet.org through D/S
 
-Re-write status page for emechnet.org
+✔ Re-write status page for emechnet.org
 
-Re-write stats page for emechnet.org
+✔ Re-write stats page for emechnet.org
 
 ✔ Implement BOPM/HOPM functionality into P (ProxyServ)
 
-Inprove the way Q / S / D offers HELP to users. 
+Improve the way Q / S / D offers HELP to users. 
 
 Make H explain each Q/S/D command.
 
 Add Help for Mjolnir services on EmechNet.org.
 
-Implement "Legacy" for the emechnet.org website.\
+✔  Implement "Legacy" for the emechnet.org website.\
 
 ✔ On Q Suspend #channel (only by admins), Q will change the topic of the channel to "This Channel has been suspended by the EmechNet Administration. Reason: Reason here. (For more information about this suspension please join #Help or E-Mail suspensions@emechnet.org), also change its Welcome message to "Channel Suspended"
